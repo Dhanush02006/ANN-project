@@ -1,5 +1,11 @@
 # ANN Mini Project
 
+## team members:
+Dhanush
+Deekshith
+Adithya
+Chethan
+
 This project includes basic implementations of Artificial Neural Networks using Python.
 
 ## What I did
@@ -22,8 +28,4 @@ Python, NumPy, Matplotlib, Scikit-learn, TensorFlow
 ## Result
 All models worked as expected and showed correct learning behavior.
 
-## Author
-Dhanush
-Deekshith
-Adithya
-Chethan
+
